@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "cover_img": "https://images.pexels.com/photos/3744195/pexels-photo-3744195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author_name": "Riya Sen",
+        "author_img": "https://images.pexels.com/photos/3764119/pexels-photo-3764119.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "title": "Mastering JavaScript in 30 Days",
+        "posted_date": "2025-05-05",
+        "reading_time": 8,
+        "hashtags": [
+            "#JavaScript",
+            "#WebDevelopment",
+            "#Coding"
+        ]
+    },
+    {
+        "id": "2",
+        "cover_img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "author_name": "Arjun Das",
+        "author_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+        "title": "The Future of AI in Everyday Life",
+        "posted_date": "2025-04-28",
+        "reading_time": 6,
+        "hashtags": [
+            "#AI",
+            "#MachineLearning",
+            "#TechTrends"
+        ]
+    },
+    {
+        "id": "3",
+        "cover_img": "https://images.pexels.com/photos/68780/pexels-photo-68780.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author_name": "Neha Mukherjee",
+        "author_img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+        "title": "Top 10 VS Code Extensions for Developers",
+        "posted_date": "2025-05-01",
+        "reading_time": 5,
+        "hashtags": [
+            "#VSCode",
+            "#Productivity",
+            "#DevTools"
+        ]
+    },
+    {
+        "id": "4",
+        "cover_img": "https://images.pexels.com/photos/4473491/pexels-photo-4473491.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author_name": "Tanmay Roy",
+        "author_img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "title": "How to Build a REST API with Node.js",
+        "posted_date": "2025-05-03",
+        "reading_time": 7,
+        "hashtags": [
+            "#NodeJS",
+            "#Backend",
+            "#API"
+        ]
+    },
+    {
+        "id": "5",
+        "cover_img": "https://images.pexels.com/photos/4947406/pexels-photo-4947406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author_name": "Priya Khanna",
+        "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+        "title": "UX Design Principles Every Designer Should Know",
+        "posted_date": "2025-04-30",
+        "reading_time": 9,
+        "hashtags": [
+            "#UXDesign",
+            "#DesignTips",
+            "#UserExperience"
+        ]
+    }
+]
